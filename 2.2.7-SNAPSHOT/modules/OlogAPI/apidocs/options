@@ -1,0 +1,26 @@
+-classpath
+'/scratch/jenkins/workspace/Olog-Publish/modules/olog-java-api/target/classes:/home/jenkins/.m2/repository/com/google/guava/guava-primitives/r03/guava-primitives-r03.jar:/home/jenkins/.m2/repository/com/sun/jersey/contribs/jersey-apache-client/1.8/jersey-apache-client-1.8.jar:/home/jenkins/.m2/repository/commons-lang/commons-lang/2.2/commons-lang-2.2.jar:/home/jenkins/.m2/repository/com/google/guava/guava-base/r03/guava-base-r03.jar:/home/jenkins/.m2/repository/com/google/guava/guava-collections/r03/guava-collections-r03.jar:/home/jenkins/.m2/repository/com/sun/jersey/jersey-core/1.8/jersey-core-1.8.jar:/home/jenkins/.m2/repository/org/jvnet/mimepull/1.4/mimepull-1.4.jar:/home/jenkins/.m2/repository/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar:/home/jenkins/.m2/repository/com/sun/jersey/contribs/jersey-multipart/1.8/jersey-multipart-1.8.jar:/home/jenkins/.m2/repository/com/sun/jersey/jersey-client/1.8/jersey-client-1.8.jar:/home/jenkins/.m2/repository/commons-codec/commons-codec/1.2/commons-codec-1.2.jar:/home/jenkins/.m2/repository/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar:/home/jenkins/.m2/repository/com/google/guava/guava-annotations/r03/guava-annotations-r03.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/scratch/jenkins/workspace/Olog-Publish/modules/olog-java-api/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2010-2014 Michigan State University. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/scratch/jenkins/workspace/Olog-Publish/modules/olog-java-api/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Olog API 2.2.7-SNAPSHOT API'
+-link
+'http://java.sun.com/javase/6/docs/api'
+-linkoffline
+'http://olog.github.com/apidocs' '/scratch/jenkins/workspace/Olog-Publish/modules/olog-service/target/site/apidocs'
+-use
+-version
+-windowtitle
+'Olog API 2.2.7-SNAPSHOT API'
